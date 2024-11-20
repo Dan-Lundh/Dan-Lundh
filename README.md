@@ -7,7 +7,7 @@ Technical Skills Machine learning, deep learning, large language models (LLM), d
 
 ### Sample Project Solutions
 * Smart home applications in Python, [primarily APIs](https://github.com/Dan-Lundh/API-Collection), to enable device control based on factors such as weather conditions and electricity spot prices
-* Applications for different purposes such as [AI-based predictions](https://github.com/Dan-Lundh/Ice-cream-prediction), [full-stack development](https://github.com/Dan-Lundh/Youtube-db), deep learning, dashboards, [storytelling](https://github.com/Dan-Lundh/Supahcoolsoft), AI, [and LLMs (Large Language Models)](https://github.com/Dan-Lundh/chatrobot-gbg)
+* Applications for different purposes such as [AI-based predictions](https://github.com/Dan-Lundh/Ice-cream-prediction), [full-stack development](https://github.com/Dan-Lundh/Youtube-db), [deep learning](https://github.com/Dan-Lundh/AI-deep_learning), dashboards, [storytelling](https://github.com/Dan-Lundh/Supahcoolsoft), AI, [and LLMs (Large Language Models)](https://github.com/Dan-Lundh/chatrobot-gbg)
 * [problem-solving](https://github.com/Dan-Lundh/netanalysis) in masters thesis projects
 * Analysis of motion data ([GAIT data](https://github.com/Dan-Lundh/Gait_analysis_Mindius), 3D data)
 * [Surface and forces](https://github.com/Dan-Lundh/Surface)
