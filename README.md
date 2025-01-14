@@ -11,7 +11,7 @@ Technical Skills Machine learning, deep learning, large language models (LLM), d
 * [problem-solving](https://github.com/Dan-Lundh/netanalysis) in masters thesis projects
 * Analysis of motion data ([GAIT data](https://github.com/Dan-Lundh/Gait_analysis_Mindius), 3D data)
 * [Surface and forces](https://github.com/Dan-Lundh/Surface)
-* 
+* C#/SQL in Blazor
 <!--
 This site was built using [GitHub Pages](https://pages.github.com/)
 https://github.com/Dan-Lundh/Gait_analysis_Mindius
