@@ -12,6 +12,7 @@ Technical Skills Machine learning, deep learning, large language models (LLM), d
 * Analysis of motion data ([GAIT data](https://github.com/Dan-Lundh/Gait_analysis_Mindius), 3D data)
 * [Surface and forces](https://github.com/Dan-Lundh/Surface)
 * [C#/SQL in Blazor with functionality for UX](https://github.com/Dan-Lundh/myOLF)
+* Simple test of Google Gemini with RAG - API (TBA)
 <!--
 This site was built using [GitHub Pages](https://pages.github.com/)
 https://github.com/Dan-Lundh/Gait_analysis_Mindius
