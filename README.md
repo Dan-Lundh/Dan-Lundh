@@ -6,6 +6,7 @@ Extensive experience in data processing, drawing conclusions, producing and impl
 Technical Skills Machine learning, deep learning, large language models (LLM), data analytics, data engineering, big data, ETL, ELT, data storytelling, Python, C, C#, R, Perl, pandas, matplotlib, seaborn, Plotly, Git, GitHub, scikit-learn, TensorFlow, SQL, GitHub Actions, HTML, statistical analysis 
 
 ### Sample Project Solutions
+* Application using [speech to text](https://github.com/Dan-Lundh/speech2text-cmd) (fairly realtime), with sample ofvoice commands
 * Smart home applications in Python, [primarily APIs](https://github.com/Dan-Lundh/API-Collection), to enable device control based on factors such as weather conditions and electricity spot prices
 * Applications for different purposes such as [AI-based predictions](https://github.com/Dan-Lundh/Ice-cream-prediction), [full-stack development](https://github.com/Dan-Lundh/Youtube-db), [deep learning](https://github.com/Dan-Lundh/AI-deep_learning), dashboards, [storytelling](https://github.com/Dan-Lundh/Supahcoolsoft), AI, [and LLMs (Large Language Models)](https://github.com/Dan-Lundh/chatrobot-gbg)
 * [problem-solving](https://github.com/Dan-Lundh/netanalysis) in masters thesis projects
